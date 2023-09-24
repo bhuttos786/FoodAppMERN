@@ -2,8 +2,6 @@
 
 Beginner Food Delivery App made using MERN Tech Stack
 
-Beginner Food Delivery App made using MERN Tech Stack
-
 Tech Stack:
 
 - Frontend: React.js for building the user interface.
